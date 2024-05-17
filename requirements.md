@@ -1,0 +1,14 @@
+numpy
+llvmlite
+numba
+torch=1.11
+cuda=11.3
+tensorboardX
+easydict
+pyyaml
+scikit-image
+tqdm
+torchvision
+SharedArray
+opencv-python
+pyquaternion
